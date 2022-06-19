@@ -1,0 +1,2 @@
+# VisualizedWordsAnalyzer
+初次学习python的课程作业
